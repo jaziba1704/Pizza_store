@@ -1,0 +1,49 @@
+{
+  "pizzas":[
+      {
+          "id":1,
+          "image":"https://images.pexels.com/photos/3874337/pexels-photo-3874337.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "name":"Pepperoni Pizza",
+          "price":1500000,
+          "size":12,
+          "crust":"thin",
+          "description":"spicy, delicious pizza"
+      },
+      {
+          "id":2,
+          "image":"https://images.pexels.com/photos/21336492/pexels-photo-21336492/free-photo-of-purple-nissan-on-a-field.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "name":"Margherita Pizza",
+          "price":1800000,
+          "size":14,
+          "crust":"thick",
+          "description":"classic, tasty pizza"
+      },
+      {
+          "id":3,
+          "image":"https://images.pexels.com/photos/6894420/pexels-photo-6894420.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "name":"BBQ Chicken Pizza",
+          "price":2000000,
+          "size":16,
+          "crust":"stuffed",
+          "description":"sweet, savory pizza"
+      },
+      {
+          "id":4,
+          "image":"https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "name":"Veggie Pizza",
+          "price":1600000,
+          "size":12,
+          "crust":"thin",
+          "description":"healthy, colorful pizza"
+      },
+      {
+          "id":5,
+          "image":"https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "name":"Hawaiian Pizza",
+          "price":1700000,
+          "size":14,
+          "crust":"thick",
+          "description":"tropical, cheesy pizza"
+      }                        
+  ]
+}
